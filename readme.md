@@ -1,2 +1,1 @@
-Laravel Project
-
+**Laravel Project**
